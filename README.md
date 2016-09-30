@@ -1,8 +1,9 @@
 # US Opiate Deaths 1999-2014
 
-## `@kjhealy`
+## Kieran Healy
+`@kjhealy`
 
-Accompanies the blog post [Opiate-related Deaths in the US, 1999-2014](https://kieranhealy.org/blog/archives/2016/09/29/opiate-related-deaths-in-the-us-1999-2014/).
+Data and code for the blog post [Opiate-related Deaths in the US, 1999-2014](https://kieranhealy.org/blog/archives/2016/09/29/opiate-related-deaths-in-the-us-1999-2014/).
 
 ## CDC WONDER Query Information
 
